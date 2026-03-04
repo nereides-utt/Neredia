@@ -2,3 +2,7 @@
 
 ## Vision 
 
+- Lidar
+- caméra
+- capteurs
+
